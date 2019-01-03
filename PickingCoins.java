@@ -8,7 +8,6 @@ public class PickingCoins {
         } else {
             int i = 1, drawCoins;
             do {
-                drawCoins = 
 
             }while(true);
         }
